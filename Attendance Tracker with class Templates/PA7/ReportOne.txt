@@ -1,0 +1,20 @@
+1111,Smith,John,smithj@cpts122.edu,CS
+Number of absences: 1  Most recent date absent: 11-15-2021
+8147,Beck,Sara,sara@cpts122.edu,EE
+Number of absences: 2  Most recent date absent: 11-15-2021
+1121,Leinart,Timothy,tim@cpts122.edu,EE
+Number of absences: 1  Most recent date absent: 11-15-2021
+4478,Art,Bruce,bart@cpts122.edu,CPTE
+Number of absences: 2  Most recent date absent: 11-15-2021
+2121,James,Hannah,jameshannah@cpts122.edu,CS
+Number of absences: 1  Most recent date absent: 11-15-2021
+5530,Payton,Ella,epayton@cpts122.edu,CPTE
+Number of absences: 2  Most recent date absent: 11-15-2021
+7759,Sam,Theo,samt@cpts122.edu,EE
+Number of absences: 1  Most recent date absent: 11-15-2021
+1122,Smith,Jane,jane@cpts122.edu,CS
+Number of absences: 2  Most recent date absent: 11-15-2021
+1222,Willis,Bruce,brucewillis@cpts122.edu,CS
+Number of absences: 1  Most recent date absent: 11-15-2021
+3255,Mort,Kris,mort@cpts122.edu,CS
+Number of absences: 2  Most recent date absent: 11-15-2021
